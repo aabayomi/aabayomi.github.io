@@ -1,5 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "username.github.io" # the base hostname & protocol for your site.
+url: "aabayomi.github.io" # the base hostname & protocol for your site.
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
@@ -21,6 +21,10 @@ email:
 # google analytics
 google:
     tracking-id: "" #your tracking id here
+
+# resume: true
+# resume-external: true
+# resume-url: https://www.dropbox.com/s/xq1x5ytcgb9yp7c/abayomi_adekanmbi_cv.pdf?dl=0
 
 gems:
   - jekyll-sitemap
