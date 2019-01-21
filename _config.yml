@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: abayomi
-header: All about Open Source,Artifical Intelligence and Rock music
+header: I ":heart:" Open Source,Artifical Intelligence and Rock music
 
 # for welcome page
 # to replace image go to index.html
@@ -22,9 +22,7 @@ email:
 google:
     tracking-id: "" #your tracking id here
 
-# resume: true
-# resume-external: true
-# resume-url: https://www.dropbox.com/s/xq1x5ytcgb9yp7c/abayomi_adekanmbi_cv.pdf?dl=0
+
 
 gems:
   - jekyll-sitemap
