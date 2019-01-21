@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: abayomi
-header: I love Open Source,Artifical Intelligence and Rock music
+header: All about Open Source,Artifical Intelligence and Rock music
 
 # for welcome page
 # to replace image go to index.html
