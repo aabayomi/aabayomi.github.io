@@ -1,7 +1,7 @@
 ---
 title: "How your computer works"
 tags: [computer,pc]
-published: false
+published: true 
 ---
 
 Lorem markdownum potiunda maerenti vernum tantaeque arbore superstes vulnera,
