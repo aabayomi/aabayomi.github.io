@@ -1,7 +1,8 @@
 text: |
 
   Hello, I'm Abayomi.Pronounced  as aa-BAA-YowMiy  meaning he has come to bring happiness.I would love to bring happiness to the world by my work.
-  <p> Breaking and Building softwares is what I love doing. At my leisure i play  <a href="https://www.easports.com/au/fifa">  FIFA 19 </a> and listen to <a href="http://www.portugaltheman.com">Portugal. The Man ':relaxed:'</a></p> 
+  <p> Currently a Software Engineer at <a href="https://www.intel.com/content/www/us/en/homepage.html"> Intel </a>. At my leisure i play  <a href="https://www.easports.com/au/fifa">  FIFA 19 </a> and listen to <a href="http://www.portugaltheman.com">Portugal. The Man ':relaxed:'</a></p> 
+  
   
   <h2>Skills</h2>
 
@@ -10,8 +11,7 @@ text: |
   + Git
   + Python
   + C++
-  + MySQL - MongoDB
-  + Scrum 
+  
   
   <h2>Projects</h2>
   + <a href="https://github.com/aabayomi/texas-groundwater-viz">Spatial Distribuition of Texas Groundwater Levels</a>
