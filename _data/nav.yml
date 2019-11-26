@@ -6,8 +6,6 @@ items:
     path: '/archive'
   - text: 'about'
     path: '/about'
-  # - text: 'Resume'
-  #   path: '/docs/abayomi_adekanmbi_bcs.pdf'
   - text: 'work'
     path: '/docs/abayomi_adekanmbi_bcs.pdf'
   - text: 'reads'
