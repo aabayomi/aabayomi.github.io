@@ -24,7 +24,7 @@ google:
 
 
 
-plugins:
+gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
