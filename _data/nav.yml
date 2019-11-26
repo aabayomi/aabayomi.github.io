@@ -7,7 +7,7 @@ items:
   - text: 'about'
     path: '/about'
   - text: 'work'
-    path: '/docs/abayomi_adekanmbi_bcs.pdf'
+    path: '/work'
   - text: 'reads'
     path: '/docs/abayomi_adekanmbi_bcs.pdf'
   # - text: 'photograghy'
