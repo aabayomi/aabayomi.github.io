@@ -1,74 +1,56 @@
 ---
 title: "Achieving Artificial General Intelligence: Gaming"
-tags: [lorem]
+tags: [Artificial Intelligence,Gaming,Machine Learning]
 published: true 
 ---
 
-Lorem markdownum potiunda maerenti vernum tantaeque arbore superstes vulnera,
-loqui voce inque auro, sed. Agros iussit infecere tincta animam, illa patris
-respicere neque laudibus; ut vomit, adamanta. Pari nec; hanc ordo illud naris
-terraeque, ferox dolendi.
+
+Over two decades ago we have made significant progress on how machine learns, 
+capable of superhuman performance and efficiency.However, the road to artificial general intelligence AGI may not 
+be a long one if challenges with compute catches up with the software.Here are curated events on how machines have 
+matched human intelligence and surpassing it on a gaming tasks.
+
+### 1996: Deep Blue 
+
+Deep Blue was a chess playing machine designed by IBM which started in Carnegie Mellon University. 
+Chess is a 2 player strategy game that requires the king to be captured, each player begins with  16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. 
+
+Deep Blue was designed using the Monte Carlo search tree MCST to first calculate all the possible moves it could make, then consider all the possible human player moves in response, then consider all its possible responding moves. The hardware composed of 30-processor designed by IBM containing 480 single-chip chess search engines, with 16 chess chips processor operating at 120 MHz, 28 nodes and 135 MHz,2 nodes respectively. The chess chips are capable of searching up to 2.5 million chess positions per second. It relies on many of the ideas developed in earlier chess programs which includes quiescence search, iterative deepening, transposition tables. These ideas and others formed a very sound basis for designing and building a chess-playing system. Deep Blue solved the search problem under two guiding principles, first the search should be highly non-uniform and secondly the search should provide “insurance” against simple errors meaning the all move sequences are searched with the shortest time .Since it is known that strong chess players are able  to  calculate  well  beyond  the  depth  reachable  by  a  uniform searcher of any conceivable speed. 
 
 
-# Fodiebant quodsi tetigisse sed septem esse paulum
-
-## Partes crescentem amor
+More on [Deep Blue](https://reader.elsevier.com/reader/sd/pii/S0004370201001291?token=E57B555CBB055680615B5BA1C12A4C8F56E3931C789D0C033825ECAE75315D2F61E86AF4906C6F992B3B83224020AD02)
 
 
-Se lexque nitente flumina iurabat gelidi in narrat longe quantaque formidine
-*supplex*. Amicis cerva quem proiecta auribus: ad et vide salutant, cecidisse
-enim alma expetitur.
 
-## Fecitque Hyantea vertice iugalia poterat exiguo duri
+### 2015: Alpha Go
 
-Nocte suis quas non, incumbens dum, time non e dederis praemia dea ligno. Virum
-et vanaque tot aures capillo illos, Huic surrexere animam tulimus cui calidis
-tertius exitiabile auras ire. Semine cupit Priamus raptu gremio et dissipat
-revocare Thetidis vultus adeundi flumina, in sedes quoque colloquium. Calcatis
-respondit at ruborem herba leto mea indoluit morte frondibus labaret in Haedis
-Auroram tuens.
+Go is two player board game with black and white stones, 181 and 180 stones respectively totaling up to 361 stones. Go is played with a different goal in mind compared to chess, the main objective is to is to surround and capture the opponent's stones or strategically create spaces of territory. Once all possible moves have been played, both the stones on the board and the empty points are tallied. The highest number wins. 
 
-    var array_reader_pebibyte = motherboard;
-    if (4 + printer > fileAgpPlatform) {
-        bus_compact(5);
-    }
-    if (public_rfid) {
-        gpu_volume.controllerWordart += windowsGraymailRw;
-        tcp(user_cpc);
-        ocrNtfs = 1;
-    }
-    var barVeronicaOverwrite = srgb_json;
-    var storage = 3;
+As simple as the rules may seem, Go is profoundly complex. There are an astonishing 10 to the power of 170 possible board configurations - more than the number of atoms in the known universe. This makes the game of Go a googol times more complex than chess.
 
-Defecerat vates **in ille** corpore laetaris actutum oderat. Aptamque operitur
-pectus, et *notum contigit*: quin *voxque*, cura lumina clauditur letifer
-validum excutit **victor suum**. Adfata Laurentes mandate, Orchomenosque mihi
-affectibus medeare viridi; cum freta, columbis.
+AlphaGo, a computer program designed by DeepMind with combines the use of advanced search tree with deep neural networks. The neural network takes the 19×19 grids of the board as an input and process it through a number of different network layers containing millions of neuron-like connections. The neural network is designed to two one part as the “policy network”, selects the next move to play and the other as the “value network” that predicts the winner of the game. 
 
-## Et ordine incinxit sensisse invitis Pulydamanta nunc
+According to the DeepMind Research AlphaGo was first subjected to playing amateur games to develop understanding of reasonable human play and then it played against different versions of itself thousands of times, each time learning from its mistakes. The concept of self-machine learning is known as reinforcement learning. With this reinforced learning AlphaGo improved and became better at learning and decision-making. 
 
-Quae et Cecrope uritur evincitque annis, oculis, ad causa vim aequore annis,
-parte arce tinctas cursu. Nocet solitaeque sinat ora trahit geminas gratissima
-quo cum **ignorat facies** passu; et! Medios et o!
+AlphaGo became the first program to defeat a world champion in the game of Go. Designed using neural network trained by supervised learning from human expert moves, and by reinforcement learning from self-play. AlphaGo becomes its own teacher: a neural network is trained to predict AlphaGo’s own move selections and also the winner of AlphaGo’s games. This neural network improves the strength of tree search, resulting in higher quality move selection and stronger self-play in the next iteration. However, a new program AlphaGo Zero achieved superhuman performance, winning 100-0 against the previously published, champion defeating AlphaGo.
 
-    heuristicCamelcasePermalink.frequencySmartOptical = fsbPaperPacket(
-            viralOfflineUdp) + 22;
-    var gnutella = 4;
-    var fileMtuUser = radcabDefault;
-    adapterMacintosh.ospf *= mirroredUnixPanel(keyExecutableDtd);
-    var fsbYahooBookmark = wan_fiber_linux(
-            unicode_keyboard.plug_bar_toggle.software_click(lockLossless + 69),
-            vlbWddmSpyware, ciscTunneling(whitelist, 87 / -5));
 
-Medio ut o vulnera procul tremula forsitan denupsit nepotibus substiterat habet
-gramina ad quaeque ordine eiectantemque [illa](http://suaea.io/huc.php) et
-tutaque. Sinuosa causae, fugit *cum audent* siquid Tereus; quae Ancaeus invidiae
-de cedit. Pylius care est caerulaque grande, quem hostem: candida si illis
-ministri. Huic crudelis, triste quae conducat, serpentis fronte, terram. Aris
-**reducere proceres** miserae semper.
+More on [Alpha Go](https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge)
 
-Dextera durastis in inde prope et asper flammis loqui Phorbas. Bisulco serpens
-adsilientis acta clangore digessit stamine quod: eras nobis sibi huius *dum*
-sum! Sono nos, a deusve, labori nomen habebat nobis nec tutela sinit. Herbarum
-mutentur utque pugnacem, oraque metuentior vergit: manus digitoque ante; quia
-dum, mores.
+
+
+### 2019: DOTA 2
+
+DOTA 2 is multiplayer online battle arena (MOBA) video game. It is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a "hero", who all have unique abilities and differing styles of play. During a match, players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's "Ancient", a large structure located within their base.
+
+
+OpenAI developed a program, OpenAI Five is a team of five artificial neural networks, simulating individual player without prior knowledge of playing Dota.
+
+OpenAI Five sees the world as a list of 20,000 numbers which encode the visible game state (limited to the information a human player is permitted to see) and chooses an action by emitting a list of 8 numbers. Once trained, these neural networks are creatures of pure instinct—their neural networks implement memory but do not otherwise learn further. They play as a team, but we do not design special communication structures—only provide them with an incentive.
+
+OpenAI Five’s neural networks start out with random parameters, and uses our general-purpose training system, Rapid, to learn better parameters. Rapid has OpenAI Five play copies of itself, generating 180 years of gameplay data each day across tens of thousands of simultaneous games, consuming 128,000 CPU cores and 256 GPUs. At each game frame, Rapid computes a numeric reward which is positive when something good has happened (e.g. an allied hero gained experience) and negative when something bad has happened (e.g. an allied hero was killed). Rapid then applies our Proximal Policy Optimization algorithm to update the parameters of the neural network—making actions which occurred soon before positive reward more likely and those soon before negative reward less likely. The program can intelligently handle long-term  and short-term planning through  hierarchical reinforcement learning. OpenAI Five learns professional-level strategies from scratch—no human data provided.
+
+More on [Dota 2](https://openai.com/five/#overview)
+
+The long-standing goal of artificial intelligence is a system that learns with superhuman proficiency. However, the long road is to achieve artificial general intelligence may not be far off, but hardware requirements will have to catch with the growth on how intelligent systems are built. 
+	
