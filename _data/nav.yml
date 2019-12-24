@@ -9,6 +9,6 @@ items:
   - text: 'work'
     path: '/work'
   - text: 'reads'
-    path: '/docs/abayomi_adekanmbi_bcs.pdf'
+    path: '/reads'
   # - text: 'photograghy'
   #   path: '/docs/abayomi_adekanmbi_bcs.pdf'
