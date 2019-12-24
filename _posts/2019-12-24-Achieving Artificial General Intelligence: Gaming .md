@@ -5,17 +5,17 @@ published: true
 ---
 
 
-Over two decades ago we have made significant progress on how machine learns, 
-capable of superhuman performance and efficiency.However, the road to artificial general intelligence AGI may not 
+<p>Over two decades ago we have made significant progress on how machine learns, 
+capable of superhuman performance and efficiency.However, the road to achieving artificial general intelligence (AGI) may not 
 be a long one if challenges with compute catches up with the software.Here are curated events on how machines have 
-matched human intelligence and surpassing it on a gaming tasks.
+matched human intelligence and surpassing it on a gaming task.</p> 
 
 ### 1996: Deep Blue 
 
-Deep Blue was a chess playing machine designed by IBM which started in Carnegie Mellon University. 
-Chess is a 2 player strategy game that requires the king to be captured, each player begins with  16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. 
+<p> Deep Blue was a chess playing machine designed by IBM which started in Carnegie Mellon University. 
+Chess is a 2 player strategy game that requires the king to be captured, each player begins with  16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns.</p> 
 
-Deep Blue was designed using the Monte Carlo search tree MCST to first calculate all the possible moves it could make, then consider all the possible human player moves in response, then consider all its possible responding moves. The hardware composed of 30-processor designed by IBM containing 480 single-chip chess search engines, with 16 chess chips processor operating at 120 MHz, 28 nodes and 135 MHz,2 nodes respectively. The chess chips are capable of searching up to 2.5 million chess positions per second. It relies on many of the ideas developed in earlier chess programs which includes quiescence search, iterative deepening, transposition tables. These ideas and others formed a very sound basis for designing and building a chess-playing system. Deep Blue solved the search problem under two guiding principles, first the search should be highly non-uniform and secondly the search should provide “insurance” against simple errors meaning the all move sequences are searched with the shortest time .Since it is known that strong chess players are able  to  calculate  well  beyond  the  depth  reachable  by  a  uniform searcher of any conceivable speed. 
+<p>Deep Blue was designed using the Monte Carlo search tree MCST to first calculate all the possible moves it could make, then consider all the possible human player moves in response, then consider all its possible responding moves. The hardware composed of 30-processor designed by IBM containing 480 single-chip chess search engines, with 16 chess chips processor operating at 120 MHz, 28 nodes and 135 MHz,2 nodes respectively. The chess chips are capable of searching up to 2.5 million chess positions per second. It relies on many of the ideas developed in earlier chess programs which includes quiescence search, iterative deepening, transposition tables. These ideas and others formed a very sound basis for designing and building a chess-playing system. Deep Blue solved the search problem under two guiding principles, first the search should be highly non-uniform and secondly the search should provide “insurance” against simple errors meaning the all move sequences are searched with the shortest time .Since it is known that strong chess players are able  to  calculate  well  beyond  the  depth  reachable  by  a  uniform searcher of any conceivable speed.</p> 
 
 
 More on [Deep Blue](https://reader.elsevier.com/reader/sd/pii/S0004370201001291?token=E57B555CBB055680615B5BA1C12A4C8F56E3931C789D0C033825ECAE75315D2F61E86AF4906C6F992B3B83224020AD02)
