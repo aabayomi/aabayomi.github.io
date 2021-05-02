@@ -14,12 +14,3 @@ To better understand how the excessive use of groundwater affects the groundwate
 This project [code](https://github.com/aabayomi/groundwater-project) can be found here.
 
 ___
-
-
-
-
-
-
-
-
-
