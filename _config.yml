@@ -15,8 +15,8 @@ email:
   text: "odunayo (at) rocketmail.com"
 
 # disqus comment
-# disqus:
-#     shortname: "test" #your disqus comment short name
+disqus:
+    shortname: "test" #your disqus comment short name
 
 # google analytics
 google:

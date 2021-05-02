@@ -4,9 +4,7 @@ tags: [fellowship,graduate school]
 published: true
 ---
 
-I started applying to graduate schools Fall 2020.However going to graduate school requires a huge financial commitment here is a mini curated list of fellowship that could be helpful.
-
-Here are is a list of fellowships that can help finance graduate studies.
+I started applying to graduate schools Fall 2020. However going to graduate school requires a huge financial commitment here is a mini curated list of fellowship that could be helpful.
 
 1. [Gem Fellowship](https://www.gemfellowship.org/)  
    Deadline : November 12
